@@ -22,6 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -34,7 +37,6 @@
   "keyToString": {
     "Application.ProductsApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "outro-crud",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/thiag/OneDrive/Documentos/JAVA_PROJECTS/CRUD - Products"
   }
