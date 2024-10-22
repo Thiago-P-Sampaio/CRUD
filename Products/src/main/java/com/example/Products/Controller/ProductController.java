@@ -12,7 +12,7 @@ import java.util.Optional;
 import java.util.UUID;
 
 @RestController
-@RequestMapping ("product")
+@RequestMapping ("/product")
 public class ProductController {
 
     @Autowired

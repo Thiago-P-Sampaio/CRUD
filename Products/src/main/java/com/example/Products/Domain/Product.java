@@ -53,6 +53,8 @@ public class Product {
     }
 
     public Product(ProductDTO dto){
-
+        this.name = dto.name();
+        this.price = dto.price();
+        this.available = dto.available();
     }
 }
