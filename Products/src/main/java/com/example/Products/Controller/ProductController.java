@@ -13,7 +13,8 @@ import java.util.UUID;
 
 @RestController
 @RequestMapping ("/product")
-public class ProductController {
+
+ public class ProductController {
 
     @Autowired
     ProductRepository repository;
